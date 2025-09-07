@@ -1,5 +1,5 @@
 import { Text, TextInput, View, TouchableOpacity, Image } from "react-native";
-import { styles } from "@/styles/_joinstyle";  // ✅ use shared join styles
+import { styles } from "@/styles/_join";  // ✅ use shared join styles
 import { SafeAreaView, SafeAreaProvider } from "react-native-safe-area-context";
 import { FontAwesome, Ionicons } from "@expo/vector-icons";
 import { useRouter } from "expo-router";
